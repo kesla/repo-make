@@ -1,0 +1,27 @@
+{
+  "author": "@jaxgeller",
+  "name": "repo-make",
+  "description": "Create a github repo from the command line",
+  "version": "0.1.0",
+  "repository": {
+    "url": ""
+  },
+  "main": "./lib/repo-make",
+  "keywords": [
+    "git",
+    "github",
+    "create",
+    "repo",
+    "repository"
+  ],
+  "bin": {
+    "repo-make": "./bin/repo-make"
+  },
+  "dependencies": {
+    "request": "*",
+    "inquirer": "*"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
