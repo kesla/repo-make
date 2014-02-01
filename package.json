@@ -2,9 +2,9 @@
   "author": "@jaxgeller",
   "name": "repo-make",
   "description": "Create a github repo from the command line",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
-    "url": ""
+    "url": "https://github.com/jacksongeller/repo-make.git"
   },
   "main": "./lib/repo-make",
   "keywords": [
